@@ -7,6 +7,7 @@ body {
 }
 
 /****************************images-classes*************************/
+
 .b-cloud-img {
   position: absolute;
   left: 300px;
@@ -41,6 +42,7 @@ body {
 }
 
 /****************************Container-classes*************************/
+
 div {
   background-color: #E4F9F5;
 }
@@ -73,8 +75,8 @@ div {
   margin-bottom: 60px;
 }
 
-
 /****************************Heading-classes*************************/
+
 h1 {
   background-color: #66bfbf;
   color: #e0f2f2;
@@ -115,6 +117,7 @@ h4 {
 }
 
 /****************************Paragraph-classes*************************/
+
 p {
   font-family: 'Montserrat', sans-serif;
   font-weight: 300;
@@ -138,8 +141,8 @@ p {
   font-size: .75em;
 }
 
-
 /****************************hr-class*************************/
+
 /* hr {
   border-style: none;
   border-width: 5px;
@@ -152,6 +155,7 @@ p {
 } */
 
 /****************************Links-classes*************************/
+
 /* #11CDD4 */
 .button {
   -moz-border-radius: 8px;

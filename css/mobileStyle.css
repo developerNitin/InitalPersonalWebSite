@@ -16,6 +16,7 @@
 
   .mountain-img {
     width: 100%;
+    bottom: 0%;
   }
 
   .profile-img {
@@ -85,7 +86,7 @@
     font-size: 3rem];
   }
 
-  h2 {
+  h2, .h3 {
     width: 100%;
   }
 
@@ -98,13 +99,9 @@
     margin-bottom: 0;
   }
 
-  .h3 {
-    width: 100%;
-  }
-
   /****************************Paragraph-classes*************************/
 
-  .p1 {
+  .p1, .p3 {
     width: 90%;
   }
 
@@ -112,7 +109,4 @@
     width: 85%;
   }
 
-  .p3 {
-    width: 90%;
-  }
 }
