@@ -1,0 +1,118 @@
+@media only screen and (max-width: 600px) {
+
+  /****************************images-classes*************************/
+
+  .b-cloud-img {
+    left: 20px;
+    width: 100px;
+    padding-top: 20px;
+  }
+
+  .t-cloud-img {
+    right: 20px;
+    width: 100px;
+    padding-top: 20px;
+  }
+
+  .mountain-img {
+    width: 100%;
+  }
+
+  .profile-img {
+    padding-top: 150px;
+    width: 50%;
+    height: 50%;
+  }
+
+  .code1-img {
+    padding-right: 0;
+    width: 50%;
+    float: none;
+    margin-bottom: 30px;
+  }
+
+  .code2-img {
+    width: 50%;
+    float: none;
+    padding-bottom: 0;
+    margin: auto;
+    margin-bottom: 30px;
+  }
+
+  /****************************Container-classes*************************/
+
+  .top-container {
+    height: 390px;
+  }
+
+  .profile {
+    padding-top: 0px;
+  }
+
+  .skill1 {
+    width: 100%;
+    margin: 0;
+    text-align: center;
+  }
+
+  .skill2 {
+    width: 100%;
+    padding-top: 0px;
+    margin: 0;
+    text-align: center;
+  }
+
+  .bottom-container {
+    height: 150px;
+  }
+
+  .hr1 {
+    margin-top: 16px;
+    margin-bottom: 30px;
+  }
+
+  .hr2 {
+    margin-top: 0px;
+    margin-bottom: 30px;
+  }
+
+  /****************************Heading-classes*************************/
+
+  h1 {
+    width: 100%;
+    margin: 0px auto;
+    padding-top: 60px;
+    font-size: 3rem];
+  }
+
+  h2 {
+    width: 100%;
+  }
+
+  h3 {
+    width: 70%;
+    margin: 30px auto;
+  }
+
+  .developer-txt {
+    margin-bottom: 0;
+  }
+
+  .h3 {
+    width: 100%;
+  }
+
+  /****************************Paragraph-classes*************************/
+
+  .p1 {
+    width: 90%;
+  }
+
+  .p2 {
+    width: 85%;
+  }
+
+  .p3 {
+    width: 90%;
+  }
+}
