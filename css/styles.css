@@ -20,8 +20,8 @@ body {
 }
 
 .mountain-img {
-  width: 60%;
-  padding-top: 70px;
+  height: 424px;
+  width: 100%;
 }
 
 .profile-img {
@@ -43,25 +43,33 @@ body {
 
 /****************************Container-classes*************************/
 
-div {
-  background-color: #E4F9F5;
+.top-container, .top-container-1 {
+  background-color: #66bfbf;
 }
 
-.top-container {
+.top-container-2 {
+  height: 424px;
   background-color: #66bfbf;
+  padding-top: 10%;
+  padding-left: 10%;
+  padding-right: 10%;
 }
 
 .profile {
   padding-top: 100px;
+  background-color: #E4F9F5;
+}
+
+.middle-container, .second-bottom-container {
+  background-color: #E4F9F5;
 }
 
 .skill1, .skill2 {
-  width: 50%;
+  width: 700px;
   padding-top: 60px;
   margin: auto;
   text-align: left;
 }
-
 
 .bottom-container {
   background-color: #66bfbf;
@@ -70,9 +78,10 @@ div {
 }
 
 .hr1, .hr2 {
+  background-color: #E4F9F5;
   text-align: center;
-  margin-top: 40px;
-  margin-bottom: 60px;
+  padding-top: 40px;
+  padding-bottom: 60px;
 }
 
 /****************************Heading-classes*************************/
@@ -80,7 +89,7 @@ div {
 h1 {
   background-color: #66bfbf;
   color: #e0f2f2;
-  width: 30%;
+  width: 40%;
   margin: 0px auto;
   padding-top: 130px;
   font-family: 'Sacramento', cursive;

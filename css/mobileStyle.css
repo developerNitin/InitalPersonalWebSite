@@ -1,4 +1,4 @@
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 830px) {
 
   /****************************images-classes*************************/
 
@@ -15,8 +15,8 @@
   }
 
   .mountain-img {
+    height: 300px;
     width: 100%;
-    bottom: 0%;
   }
 
   .profile-img {
@@ -42,8 +42,11 @@
 
   /****************************Container-classes*************************/
 
-  .top-container {
-    height: 390px;
+  .top-container-2 {
+    height: 300px;
+    padding-top: 20%;
+    padding-left: 10%;
+    padding-right: 10%;
   }
 
   .profile {
@@ -68,13 +71,13 @@
   }
 
   .hr1 {
-    margin-top: 16px;
-    margin-bottom: 30px;
+    padding-top: 16px;
+    padding-bottom: 30px;
   }
 
   .hr2 {
-    margin-top: 0px;
-    margin-bottom: 30px;
+    padding-top: 0px;
+    padding-bottom: 30px;
   }
 
   /****************************Heading-classes*************************/
