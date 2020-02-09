@@ -20,8 +20,8 @@ body {
 }
 
 .mountain-img {
-  height: 424px;
-  width: 100%;
+  padding-top: 40px;
+  width: 770px;
 }
 
 .profile-img {
@@ -48,11 +48,8 @@ body {
 }
 
 .top-container-2 {
-  height: 424px;
+  height: 464px;
   background-color: #66bfbf;
-  padding-top: 10%;
-  padding-left: 10%;
-  padding-right: 10%;
 }
 
 .profile {

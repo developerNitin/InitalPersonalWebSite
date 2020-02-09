@@ -15,30 +15,25 @@
   }
 
   .mountain-img {
+    padding-top: 0;
     height: 300px;
     width: 100%;
   }
 
   .profile-img {
-    padding-top: 150px;
-    width: 50%;
+    padding-top: 100px;
+    width: 250px;
     height: 50%;
   }
 
-  .code1-img {
+  .code1-img, .code2-img {
     padding-right: 0;
-    width: 50%;
+    padding-bottom: 0;
+    width: 12em;
     float: none;
     margin-bottom: 30px;
   }
 
-  .code2-img {
-    width: 50%;
-    float: none;
-    padding-bottom: 0;
-    margin: auto;
-    margin-bottom: 30px;
-  }
 
   /****************************Container-classes*************************/
 
