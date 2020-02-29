@@ -1,2 +1,2 @@
-# InitalPersonalSite
+# InitalPersonalWebSite
 My professional site
